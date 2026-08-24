@@ -104,3 +104,4 @@ assets will 404 on the live site.
 
 You can deploy to **both** Vercel and GitHub Pages from the same
 repo at once — they don't conflict.
+ok
